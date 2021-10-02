@@ -1,4 +1,4 @@
-# Find-RegA+-Investors
+# Find-RegA+ Investors
 
 The scope of this project is to use datasets provided by Public Yield Capital to find exceptional Reg A+ investors and institutions interested in raising capital. The project requires developing and building an AI ecosystem to:
 
